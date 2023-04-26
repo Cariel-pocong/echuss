@@ -22,7 +22,7 @@ img{
 }
 figure{
     border: 2px #000000 solid;
-    padding:none;
+    padding: 0%;
     margin-right: 20%;
 }
 body{
@@ -85,7 +85,7 @@ h3{
 }
 main{
     margin-left: 20%;
-    margin-right: 205;
+    margin-right: 20%;
 }
 ol.c{
     list-style-type: circle;
